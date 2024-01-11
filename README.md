@@ -1,2 +1,2 @@
 # ics32_a0
-First repo 
+Repository for Bhakti ICS 32 - Project A0 
